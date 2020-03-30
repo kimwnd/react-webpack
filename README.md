@@ -1,2 +1,2 @@
 # react-webpack
-react webpack test
+react webpack
